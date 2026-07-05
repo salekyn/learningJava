@@ -6,6 +6,6 @@ public class p3 {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
 
-        for()
+
     }
 }
